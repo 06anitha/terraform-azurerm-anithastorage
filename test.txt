@@ -1,0 +1,18 @@
+Hey, Cloud Gurus, welcome back.
+In this video, we're talking about building our scenario.
+There are a lot of lessons in this exam course.
+One of the easiest ways to remember is by adding context.
+And to provide that context,
+we created a fictional company called Ctrl Alt Sweets.
+And there will be lessons
+that describe this case study scenario,
+so let me break it down for you.
+Ctrl Alt Sweets is a bakery shop.
+They actually are a bakery chain.
+So it is essentially a retail enterprise.
+Now for some fun fictional facts about Ctrl Alt Sweets.
+Number one, they have $100 million in revenue.
+They have over 500 brick and mortar shops in 16 countries.
+They have a large e-commerce presence
+and they do also online catering.
+They recently received the Fictional Bakery award
